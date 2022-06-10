@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DrnkyBeers
+- 👋 Hi, I’m @AykutDrnky
 - 👀 I’m interested in .NET
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
